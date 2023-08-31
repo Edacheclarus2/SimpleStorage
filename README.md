@@ -3,4 +3,4 @@
 
 im clarus 
 
-This is my first project, i expect flaws and mistakes 
+This is my first solidity project
